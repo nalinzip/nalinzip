@@ -13,6 +13,6 @@
   <h1  align="center">My projects and Activities</h1>
     <li>Fall 2024 : Open Software Platform Team Project</li>
     <li>Fall 2024 : Early-Altubitu - Algorithm Club</li>
-    <li>Fall 2024-now : Head of IT Support Team, Thai Studeny Association in the Republic of Korea</li>
+    <li>Fall 2024-now : Head of IT Support Team, Thai Student Association in the Republic of Korea</li>
     <li>Spring 2025 : Computer Club (Machine Learning Division)</li>
 </div>
