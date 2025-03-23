@@ -6,7 +6,7 @@
   
   <h1  align="center">Hi, this is Nalin from BKK, Thailand.</h1>
   <ul>
-    <li>A third-year student at Ewha Womans University, majoring in Computer Science and Engineering.</li>
+    <li>A third-year student at Ewha Womans University, majoring in Computer Science and Engineering. (Full Scholarship)</li>
     <li>I love music! 🎼</li>
     <li>I can speak three languages including Thai, English, and Korean</li>
   </ul>
