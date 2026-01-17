@@ -1,7 +1,7 @@
 <div>
   <h2 align="center">안녕하세요. 나린입니다.</h2>
   <ul>
-    <li>이화여자대학교 컴퓨터공학전공 3학년 재학 중인 학부생입니다.</li>
+    <li>이화여자대학교 컴퓨터공학전공 4학년 재학 중인 학부생입니다.</li>
   </ul>
   
   <h2  align="center">Hi, this is Nalin from BKK, Thailand.</h2>
@@ -13,6 +13,6 @@
   <h2  align="center">My projects and Activities</h2>
     <li>Fall 2024 : Open Software Platform Team Project</li>
     <li>Fall 2024 : Early-Altubitu - Algorithm Club</li>
-    <li>Fall 2024-now : Head of IT Support Team, Thai Student Association in the Republic of Korea</li>
+    <li>Fall 2024-now : Head of IT Support Department, Thai Student Association in the Republic of Korea</li>
     <li>Spring 2025~Summer 2025 : Computer Club (Machine Learning Division)</li>
 </div>
